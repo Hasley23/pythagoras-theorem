@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Теорема Пифагора</string>
+    <string name="tvMain">Вычисление гипотенузы \"c\"</string>
+    <string name="tvRes">Поле результата</string>
+    <string name="imageView2Desc">Прямоугольный треугольник</string>
+    <string name="aSide">Сторона \"a\"</string>
+    <string name="bSide">Сторона \"b\"</string>
+    <string name="bCalculate">Вычислить!</string>
+    <string name="isEmpty">Поле/поля для ввода пусты!</string>
+</resources>

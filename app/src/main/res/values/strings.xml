@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pythagoras Theorem</string>
+    <string name="tvMain">Calculate hypotenuse \"c\"</string>
+    <string name="tvRes">Result field</string>
+    <string name="imageView2Desc">Triangle blueprint</string>
+    <string name="aSide">\"a\" length…</string>
+    <string name="bSide">\"b\" length…</string>
+    <string name="bCalculate">Calculate!</string>
+    <string name="isEmpty">Input field/fields is/are empty!</string>
+</resources>
